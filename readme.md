@@ -166,3 +166,39 @@ Q.ly is a simple way to take quick bookings when your venue is at capacity or yo
 #### Gym Equipment Sharing: https://github.com/petelah/SSB
 
 This is a web application that is designed with the primary person of connecting people with gym equipment they are no longer using with people who wish to hire the equipment. The target for this shall be people requiring specific gear. People who want to take action on their health at home without the outlay. Or people just looking to try different things to see what works for them. All payments and hiring shall be done through the application.
+
+## Raymond Jewell
+
+#### Diary: url
+
+Idea of the Application: When creating this app I wanted to create an application that aided me in my ability to organise and collect my thoughts. Therefore, I created a diary application. I believed the decision to move away from pen and paper saves materials and works to ease the mind knowing you will not need to purchase a new one for the following year. The diary application will allow the user to create entries with dates attached, and enable user to edit their entries whether to improve or delete the contents. As an additional feature, I have added a history date API that provides an interesting historical date to the date of which the entry was created.
+
+## Rebekah Heal
+
+#### Travel app: url coming soon
+
+Awesomeness about travel
+
+## Samitha Don
+
+#### mealplanner: https://github.com/sam-don/mealplanner
+
+Meal planner is used to add recipes including macronutrient data into a weekly meal plan to simplify calorie/macro tracking. Users are able to log in to see their current plan and make changes.
+
+## name
+
+#### project name: url
+
+bla bla
+
+## name
+
+#### project name: url
+
+bla bla
+
+## name
+
+#### project name: url
+
+bla bla
