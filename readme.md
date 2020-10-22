@@ -185,20 +185,30 @@ Awesomeness about travel
 
 Meal planner is used to add recipes including macronutrient data into a weekly meal plan to simplify calorie/macro tracking. Users are able to log in to see their current plan and make changes.
 
-## name
+## Sean Remenyi
 
-#### project name: url
+#### InstagramClone: https://github.com/seanremenyi/InstagramClone
 
-bla bla
+This will be a photo sharing app, similar to Instagram. User's will be able to sign up, create a profile. Once signed up, User's will be able to post pictures. These picture's can be tagged with keys to later search through. People can then scroll through other people's pictures, like and comment on them.
 
-## name
+#### MarketPlace: https://github.com/seanremenyi/Marketplace
 
-#### project name: url
+This will be a marketplace community app, similar to gumtree. User's will be able to sign up and create a profile for their store (or themselves if they want). They will then be able to upload pictures about what they are trying to sell. They will tag the photos with key words to make them eaesier to search for. User's will be able to search or just browse the marketplace. If they find an item they like. They will be able to contact the owner.
 
-bla bla
+## Joel Adams
 
-## name
+#### Plant Mail: https://github.com/inbox237/plantmail
 
-#### project name: url
+Plant mail is website for users to buy and sell plants. The site acts like a marketplace with the ability for users to create a new account and create listings and buy other users' listings. Non-users may also buy plants using a guest checkout if they wish. Plant mail will either be free with some advertising or take a small % of each sale. Plant mail will actively moderate the listings and content, ensuring users are honestly advertising plant species and there will be some sort of user rating system based on prior sales history.
 
-bla bla
+## Tom Crossman
+
+#### SQL injection: url coming soon
+
+Injecting SQL vaccines.... I dont know Im not not a doctor.
+
+## Ashley Lam
+
+#### Travel blog diary: https://github.com/ashley190/traveldiary
+
+Traveldiary aims to allow users to document their travel in the from of a diary/microblog, create public reviews for places of interests that will be made available ther users to vote and leave comments.
