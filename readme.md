@@ -99,15 +99,22 @@ The main purpose of this API/APP is to solve a common problem I have that comes 
 
 This API was designed with pizza in mind. Not every store is on uber eats etc, but most, if not all have a website, and being in Meblourne there is quite a lot of choice for pizza, quite spoilt for choice actually with every corner thinking they can make the best pizza in Melbourne. There is the mark ups and all that jazz on the popular delivery apps if you go that route. What this API aims to do is give access from a dump of all known pizza shops in Melbourne with their current menu/prices. The user will not be able to order through the application but merely give them information of what pizza is available - which shop is selling it and what else they have and price, where the shop is, link to their website and call them(might remove this but its aplace holder for now - as the user can techincally call the shop and place an order) Whilst the user can then rate it, comment on it, make friends and share their pizza finds with each other.
 
-## name
+## Karim Tlais
 
-#### project name: url
+#### petdiary: https://github.com/karim-tlais/petdiary
 
-bla bla
+The user will be able to:
 
-## name
+Upload a profile photo of their pet.
+Write a resume about their pets with details like name, breed, age.
+Create an account with a username and password.
+Store their pet's vaaccination safelly.
+Create reminders for future vaccinations, vet visits.
+Upload photos of strange behaviour that the pet might do so it would be possible to keep as a history or to show the vet.
 
-#### project name: url
+## Logan Harris
+
+#### Markdown to PDF converter: https://github.com/hollyjc/sideproject
 
 bla bla
 
