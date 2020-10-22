@@ -24,6 +24,10 @@ This app will search music mixes from the internet and give the user the results
 
 An accountability app for individuals or groups. The purpose of this app is for individuals to be held accountable to their goals through friends or acquaintances who can monitor the individuals progress to hitting the goals/targets/habits/changes that they wish to be accountable for. THis will included a forum type chat section (private and public) as well as a method of reviewing and approving the individuals actions. At this stage that shall be via photo approval of the action however depending on what is being tracked there are other avenues to explore. The idea is that the Tribe helps to hold eachother accountable and lift people.
 
+#### Gym Equipment Sharing: https://github.com/petelah/SSB
+
+This is a web application that is designed with the primary person of connecting people with gym equipment they are no longer using with people who wish to hire the equipment. The target for this shall be people requiring specific gear. People who want to take action on their health at home without the outlay. Or people just looking to try different things to see what works for them. All payments and hiring shall be done through the application.
+
 ## Darren Trafford
 
 #### DnD: https://github.com/DarrenTrafford/DnD-App
@@ -143,14 +147,22 @@ From there users can use the console to access various pages. One of the pages w
 
 The page where bugs are submitted will allow comments and collaboration between users and attachments are able to be submitted. Admins will be able to create new users and allocate them roles and teams. Users will be able to track their own performance and contributions from their personalised page.
 
-## name
+## Pandelis Toumbelekis
 
-#### project name: url
+#### my-mood-diary: https://github.com/PandelisT/my-mood-diary
 
-bla bla
+This app has been developed in consultation with clinical psychologists to track behaviours such as mood, diet, sleep, drug use, exercise as well as problem areas and skills.
 
-## name
+Upon logging in, the user will be prompted to record their mood and emotions at that time which will be monitored and stored in a calendar.
 
-#### project name: url
+It also allows users to add a daily journal entry and send a report to their therapist.
 
-bla bla
+## Peter Seabrook
+
+#### Q-ly: https://github.com/petelah/Q-ly
+
+Q.ly is a simple way to take quick bookings when your venue is at capacity or you need an easy automated waiting line.
+
+#### Gym Equipment Sharing: https://github.com/petelah/SSB
+
+This is a web application that is designed with the primary person of connecting people with gym equipment they are no longer using with people who wish to hire the equipment. The target for this shall be people requiring specific gear. People who want to take action on their health at home without the outlay. Or people just looking to try different things to see what works for them. All payments and hiring shall be done through the application.
