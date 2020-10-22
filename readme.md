@@ -1,11 +1,5 @@
 # Side apps
 
-## name
-
-#### project name: url
-
-bla bla
-
 ## Andrew Gregorovic
 
 #### Check it: https://github.com/AndrewGregorovic/check_it
@@ -212,3 +206,9 @@ Injecting SQL vaccines.... I dont know Im not not a doctor.
 #### Travel blog diary: https://github.com/ashley190/traveldiary
 
 Traveldiary aims to allow users to document their travel in the from of a diary/microblog, create public reviews for places of interests that will be made available ther users to vote and leave comments.
+
+## name
+
+#### project name: url
+
+Docs
