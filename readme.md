@@ -83,17 +83,21 @@ Example, you want to send a document to your client. You can simply post a job t
 
 This application is ideal for parents (especially with young children), or people who struggle with time management. When you log into the app you select if you are getting ready by yourself, or if you also have children to get ready (if so - how many). You will then be asked what time you need to be at your destination, and how long it takes to get there. The application will then prompt you to check off what you (and your child/ren need if selected), such as: have a shower, do hair and make up, pack kid’s lunches, dress the child, etc. The application will calculate the time it takes to do all of these tasks, and tell you what time you need to wake up to ensure you have enough time to do all of your activities and get to where you need to be on time.
 
-## name
+## James Menzies
 
-#### project name: url
+#### sso_roster: Private for now ( because reasons )
 
-bla bla
+This application will be used for rostering the Sydney Symphony string section, as well as act as a centralized point for leave applications. For all documentation in this repo, the terms covered in this glossary will be assumed, so it would be a good first point of reference for anyone new to this repository.
 
-## name
+## Jim Read
 
-#### project name: url
+#### CookBookShopper: https://github.com/Jim-Read/CookBookShopper_sideapp1
 
-bla bla
+The main purpose of this API/APP is to solve a common problem I have that comes up from time to time when I need to do food shopping but more or less to speed up/cure laziness when doing this mundane yet pretty frequent activity. The main purpose of the application is to store recipes. A user can create an account, create recipes, read them, edit them, delete them. These are user own creations and can be accessed anytime and anywhere, much like a recipe book. To build on this, the api will have features available to the user to be able to grab a list of their favourite ones - say the user picks 7 recipes - 1 dinner for each day of the week. The APP will return a condensed list of all ingredients the user needs to go buy.
+
+#### SlashDotPizza: https://github.com/Jim-Read/SlashDotPizza_sideapp2
+
+This API was designed with pizza in mind. Not every store is on uber eats etc, but most, if not all have a website, and being in Meblourne there is quite a lot of choice for pizza, quite spoilt for choice actually with every corner thinking they can make the best pizza in Melbourne. There is the mark ups and all that jazz on the popular delivery apps if you go that route. What this API aims to do is give access from a dump of all known pizza shops in Melbourne with their current menu/prices. The user will not be able to order through the application but merely give them information of what pizza is available - which shop is selling it and what else they have and price, where the shop is, link to their website and call them(might remove this but its aplace holder for now - as the user can techincally call the shop and place an order) Whilst the user can then rate it, comment on it, make friends and share their pizza finds with each other.
 
 ## name
 
