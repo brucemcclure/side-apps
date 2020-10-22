@@ -163,7 +163,7 @@ This is a web application that is designed with the primary person of connecting
 
 ## Raymond Jewell
 
-#### Diary: url
+#### Diary: https://github.com/Rsjz11/diary
 
 Idea of the Application: When creating this app I wanted to create an application that aided me in my ability to organise and collect my thoughts. Therefore, I created a diary application. I believed the decision to move away from pen and paper saves materials and works to ease the mind knowing you will not need to purchase a new one for the following year. The diary application will allow the user to create entries with dates attached, and enable user to edit their entries whether to improve or delete the contents. As an additional feature, I have added a history date API that provides an interesting historical date to the date of which the entry was created.
 
