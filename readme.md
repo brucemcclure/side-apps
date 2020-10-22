@@ -114,27 +114,34 @@ Upload photos of strange behaviour that the pet might do so it would be possible
 
 ## Logan Harris
 
-#### Markdown to PDF converter: https://github.com/hollyjc/sideproject
+#### Markdown to PDF converter: https://github.com/Magni0/AllInOneMD
 
-bla bla
+To allow the upload, storage, editing, downloading and converting to pdf (with images) in one location to limit the need to use third party software when writing documentation in markdown files. When using third party websites to convert Markdown (MD) to pdf format it is inconveniant how few support the use of images and it can get messy with storage on a users device. This solution's pupose is to accumulate the diffrent aspects of documentaion into one conveiniant and easy to use method for a user.
 
-## name
+## Mark Lee
 
-#### project name: url
+#### Family tree: url coming soon
 
-bla bla
+Coming soon.
+Im assuming something badass about family trees.
 
-## name
+## Michelle Nguyen
 
-#### project name: url
+#### Solar view: https://github.com/MichelleHM/Solar_Viewer
 
-bla bla
+With more government and sustainability incentives, the installation and use of renewable energy sources such as solar have risen. Solar panels are one of the more accessbile systems which houses or other building structures may have installed to utilise solar radiation. The energy output of these solar panel systems may not be easily accessible to some people. This applciation aims to provide information to those who wish to view their or their community's energy output.
 
-## name
+This application allows users to check the energy output of the solar panels in their geographical location. Providing live and forecasted energy outputs for a given location, users will have the option of checking their community's or their own solar panel's energy output.
 
-#### project name: url
+## Mo Ahmad
 
-bla bla
+#### kachow: https://github.com/mo-ccc/kachow
+
+This project was created with the purpose to provide tech companies with an interface for managing and tracking the bugs within their projects. On login users will be presented with an overview dashboard.
+
+From there users can use the console to access various pages. One of the pages will allow users to view/submit/manage bugs (mark them as closed or open). The other pages such as the calendar page will serve as a compliment allowing the users to see a calendar for when bugs were submitted and squashed. Users will be able to edit their profile information and are able to upload profile pictures to represent themselves.
+
+The page where bugs are submitted will allow comments and collaboration between users and attachments are able to be submitted. Admins will be able to create new users and allocate them roles and teams. Users will be able to track their own performance and contributions from their personalised page.
 
 ## name
 
