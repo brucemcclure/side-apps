@@ -26,7 +26,11 @@ This is a web application that is designed with the primary person of connecting
 
 #### DnD: https://github.com/DarrenTrafford/DnD-App
 
-DnD stuff
+This app is aiming to solve a personal problem I have found when playing D&D, which is the lack of apps that has an interactive character sheet.
+
+The goal of this app is to use the open5e API to get the base information of the game, using that information I will be recreating the character sheet to be more user and beginner friendly as well as having functionality.
+
+The first main feature I will be working on is the functionality of the Character sheet, ie dice rolling. Future things will be added in time.
 
 ## Eric Chew
 
