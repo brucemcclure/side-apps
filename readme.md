@@ -101,6 +101,12 @@ The main purpose of this API/APP is to solve a common problem I have that comes 
 
 This API was designed with pizza in mind. Not every store is on uber eats etc, but most, if not all have a website, and being in Meblourne there is quite a lot of choice for pizza, quite spoilt for choice actually with every corner thinking they can make the best pizza in Melbourne. There is the mark ups and all that jazz on the popular delivery apps if you go that route. What this API aims to do is give access from a dump of all known pizza shops in Melbourne with their current menu/prices. The user will not be able to order through the application but merely give them information of what pizza is available - which shop is selling it and what else they have and price, where the shop is, link to their website and call them(might remove this but its aplace holder for now - as the user can techincally call the shop and place an order) Whilst the user can then rate it, comment on it, make friends and share their pizza finds with each other.
 
+## KAren Steewart
+
+#### Code-Connect-Collaborate: https://github.com/Karen-Stewart80/Code-Connect-Collaborate
+
+This social/work app allows developers to connect and collaborate with other developers on projects. Each developer has a brief profile with photo, their project description/link and what they are looking for eg. Front-end Dev. Easy 'Let's collaborate' and 'Let's connect' buttons allow messaging to begin.
+
 ## Karim Tlais
 
 #### petdiary: https://github.com/karim-tlais/petdiary
