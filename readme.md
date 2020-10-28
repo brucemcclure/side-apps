@@ -43,6 +43,11 @@ The first main feature I will be working on is the functionality of the Characte
 This app aims to facilitate matching people and groups of like minded people based on interest.
 Users will be able to create distinct profiles for each of their hobbies in order to find other similar users.
 
+##### dvoid: https://github.com/eric-chew/dvoid
+
+Scream anonymously to be heard by anyone until it is lost.
+When you vent, rant or confess into the void until it can be seen only as long as you choose until it is permanently removed.
+
 ## Gabriel Wong
 
 #### Learnly : https://github.com/GabrielWongAu/learnly-app
