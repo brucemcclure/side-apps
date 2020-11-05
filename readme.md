@@ -92,7 +92,7 @@ This application is ideal for parents (especially with young children), or peopl
 
 ## James Menzies
 
-#### sso_roster: Private for now ( because reasons )
+#### sso_roster: https://github.com/redbrickhut/ascribe
 
 This application will be used for rostering the Sydney Symphony string section, as well as act as a centralized point for leave applications. For all documentation in this repo, the terms covered in this glossary will be assumed, so it would be a good first point of reference for anyone new to this repository.
 
@@ -187,6 +187,11 @@ Idea of the Application: When creating this app I wanted to create an applicatio
 #### Receipt Collection: https://github.com/rheal3/receipt_app
 
 This app will be a place for the user to store all of their receipts. It will be a tool to help the user keep a clear record of purchases for future use. The user will be able to upload an image of their receipt and input the date, location of purchase, and amount of the transaction. The records will be accessible via an easy to use database.
+
+#### online_shop: https://github.com/rheal3/online_shop
+
+This app will be an online shop for small business owners to sell their wares. The app will provide a user view point to buy items and a business owner viewpoint to upload and sell items. The user interface will be clear and simple, focusing on the items that the business owner is selling. The user will be able to create an account to track their purchases and keep items in their basket.
+The business owner (admin) interface will allow the owner to add, remove, and update the items for sale. There will be a page to view their orders and mark the status of the order to easily keep track. There will also be a page to track sales.
 
 ## Samitha Don
 
