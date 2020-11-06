@@ -12,6 +12,12 @@ This app aims to help users manage checklists of tasks to avoid the hassle of ha
 
 This app will search music mixes from the internet and give the user the results, much like Google and their search engine. You can create your own mix playlists and play from the app.
 
+## Christopher Joseph
+
+#### Trenda: https://github.com/Folarin93/Trenda
+
+Trenda is web application which used for following and keeping up to date with the job demand for popular programming languages. Trenda provides visuals graphs of trends and provides key insights on the fluctuation in demand for current programming languages. Users of the site can view up to date trends and can create and account where they can select specific programming languages to follow. Key insights and notifications are sent to users who have signed up during significant changes.
+
 ## Colin Forster
 
 #### tribe: https://github.com/Ctrain68/tribe
@@ -192,6 +198,12 @@ This app will be a place for the user to store all of their receipts. It will be
 
 This app will be an online shop for small business owners to sell their wares. The app will provide a user view point to buy items and a business owner viewpoint to upload and sell items. The user interface will be clear and simple, focusing on the items that the business owner is selling. The user will be able to create an account to track their purchases and keep items in their basket.
 The business owner (admin) interface will allow the owner to add, remove, and update the items for sale. There will be a page to view their orders and mark the status of the order to easily keep track. There will also be a page to track sales.
+
+## Richard Noh
+
+#### mapper: https://github.com/blah88/mapper
+
+Mapper is a visual mind mapping platform that employ CRUD operations to manage your data. Users will be able to create a database using GUI and also able to upload their database to create a visual represention of their database.
 
 ## Samitha Don
 
