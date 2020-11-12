@@ -211,6 +211,12 @@ Mapper is a visual mind mapping platform that employ CRUD operations to manage y
 
 Meal planner is used to add recipes including macronutrient data into a weekly meal plan to simplify calorie/macro tracking. Users are able to log in to see their current plan and make changes.
 
+## Scott Malone
+
+#### TradesmanAPP: https://github.com/ScottBurleighHeads/TradesmanAPP
+
+This app has been established for clients to find tradies. There are many apps existing already where a client can get in touch with a tradesman. This app will be better because it is going to be more focused on tradies able to sell themselves. The current apps dont have a defined appproach where a client can determine if a tradesman is a quality tradesman or not. Clients often feel they gamble on who they get. There are currently star ratings that assist clients which is great but I feel that tradies can give more to the clients before starting work. This app will aim to be as professional as linkedin and as easy to navigate as gumtree. This app will focus on amplifying past achievements and completed Jobs through photos, references and personal input.
+
 ## Sean Remenyi
 
 #### InstagramClone: https://github.com/seanremenyi/InstagramClone
