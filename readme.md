@@ -229,9 +229,13 @@ Plant mail is website for users to buy and sell plants. The site acts like a mar
 
 ## Tom Crossman
 
-#### SQL injection: url coming soon
+#### SQLi-Game: https://github.com/Ayodub/SQLi-Game
 
-Injecting SQL vaccines.... I dont know Im not not a doctor.
+The concept for this terms project is to build an application capable of helping people practise SQL injection attacks. These challenges will be presented in levels.
+
+Each level of this game will present slightly more sanitized input, forcing the user to apply more complex SQL injection techniques and filter evasions. Additionally, a button to receive hints will be given.
+
+Users will be able to sign up to keep track of their progress through the levels.
 
 ## Ashley Lam
 
