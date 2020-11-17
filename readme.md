@@ -152,6 +152,25 @@ With more government and sustainability incentives, the installation and use of 
 
 This application allows users to check the energy output of the solar panels in their geographical location. Providing live and forecasted energy outputs for a given location, users will have the option of checking their community's or their own solar panel's energy output.
 
+## Michael Rixon
+
+#### LinkedIn App: https://github.com/mrixon95/Docs_On_Term3_CCC_course/tree/main/LinkedIn%20App
+
+My Trello board for this app is located here: https://trello.com/b/7Y9qhmBJ/project-management
+
+My app is designed to be a LinkedIn site for IT professionals. Similar to LinkedIn, IT professionals will be able to:
+
+create an account
+make posts and add photos of themselves
+write a bio and add work experience
+connect, follow and message other users
+list their skills, experience, education and add a link to their github account
+like and comment on other posts
+Different from LinkedIn as of November, 2020, IT professionals will be able to:
+
+freely advertise themselves for freelance IT work
+join groups with people who have similar interests
+
 ## Mo Ahmad
 
 #### kachow: https://github.com/mo-ccc/kachow
